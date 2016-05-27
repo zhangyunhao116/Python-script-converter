@@ -1,0 +1,6 @@
+
+*.xml
+
+.pypirc
+
+.python-version
