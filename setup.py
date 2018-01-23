@@ -6,7 +6,7 @@ MODULE_NAME = 'psc'
 
 setup(
     name='python-script-converter',
-    version='1.0',
+    version='1.1',
 
     author='ZhangYunHao',
     author_email='workvl@163.com',
