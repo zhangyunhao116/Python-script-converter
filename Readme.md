@@ -23,7 +23,7 @@ you can also use pip.
 
 ### Option 2:Download from Github
 
-You may either download the stable (identical with the latest release on PyPI) or the master branch of you-get. Unzip it, and put the directory containing the you-get script into your PATH.
+You may either download the stable (identical with the latest release on PyPI) or the master branch of python-script-converter. Unzip it, and do 
 
 ```
 $ [sudo] python3 setup.py install
