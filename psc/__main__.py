@@ -61,4 +61,4 @@ def main():
         PSC(sys.argv[1])
     elif length == 3:
         PSC(sys.argv[1], int(sys.argv[2]))
-    sys.stdout.write('Success! Powered by ZYunH.\n')
+    sys.stdout.write('Success!\n')
